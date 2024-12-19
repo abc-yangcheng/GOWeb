@@ -1,0 +1,6 @@
+ERROR 2024/12/11 16:23:03 utils.go:117: pq: 用户 "chitchat" Password 认证失败 Cannot create user
+ERROR 2024/12/11 16:23:09 utils.go:117: pq: 用户 "chitchat" Password 认证失败 Cannot find user
+ERROR 2024/12/11 16:23:22 utils.go:117: pq: 用户 "chitchat" Password 认证失败 Cannot find user
+ERROR 2024/12/11 16:23:39 utils.go:117: pq: 用户 "chitchat" Password 认证失败 Cannot create user
+ERROR 2024/12/11 16:24:26 utils.go:117: pq: 用户 "chitchat" Password 认证失败 Cannot create user
+ERROR 2024/12/11 16:24:36 utils.go:117: pq: 用户 "chitchat" Password 认证失败 Cannot find user
